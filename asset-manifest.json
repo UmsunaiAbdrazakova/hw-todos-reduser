@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-todos-reduser/static/css/main.5e41044a.css",
+    "main.js": "/hw-todos-reduser/static/js/main.efb24099.js",
+    "index.html": "/hw-todos-reduser/index.html",
+    "main.5e41044a.css.map": "/hw-todos-reduser/static/css/main.5e41044a.css.map",
+    "main.efb24099.js.map": "/hw-todos-reduser/static/js/main.efb24099.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e41044a.css",
+    "static/js/main.efb24099.js"
+  ]
+}
